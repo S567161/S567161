@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/free-photo/be-change-inspired-active-thunder-website_18126169.htm#query=linkedin%20cover%20quotes%20for%20IT%20employees&position=25&from_view=search&track=ais)(https://github.com/S567161)
+[![MasterHead](https://www.freepik.com/free-photo/be-change-inspired-active-thunder-website_18126169.htm#query=linkedin%20cover%20quotes%20for%20IT%20employees&position=25&from_view=search&track=ais)](https://github.com/S567161)
 
 <h1 align="center">Hi 👋, I'm Udaykiranreddy Devarapally</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
